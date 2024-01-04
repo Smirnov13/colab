@@ -1,3 +1,1 @@
 # Colab. Hello
-
-### Kak dela?
